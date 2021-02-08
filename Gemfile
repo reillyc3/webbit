@@ -27,7 +27,7 @@ gem 'jbuilder', '~> 2.7'
 
 # Custom gems
 gem 'devise', '~> 4.7', '>= 4.7.1'
-gem 'carrierwave', '~> 1.3', '>= 1.3.1'
+gem 'carrierwave', '~> 1.3'
 gem 'mini_magick', '~> 4.9', '>= 4.9.5'
 gem 'valid_url', '~> 0.0.4'
 
